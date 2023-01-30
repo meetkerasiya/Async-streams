@@ -2,7 +2,7 @@
 {
     static async Task Main(string[] args)
     {
-        var producer=new Producer();
+        await using var producer=new Producer();
         //var numbers=await producer.GetNumbersAsync();
         //foreach (var num in numbers)
         //{
@@ -16,8 +16,14 @@
     }
 }
 
-public class Producer
+public class Producer : IAsyncDisposable
 {
+    public async ValueTask DisposeAsync()
+    {
+        await Task.Delay(2000);
+        Console.WriteLine("methods disposed!!!");
+    }
+
     public async Task<IEnumerable<int>> GetNumbersAsync()
     {
         List<int> numbers = new List<int>();
