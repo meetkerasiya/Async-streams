@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\bin\Debug\net6.0\Async streams.exe
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\bin\Debug\net6.0\Async streams.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\bin\Debug\net6.0\Async streams.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\bin\Debug\net6.0\Async streams.dll
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\bin\Debug\net6.0\Async streams.pdb
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\Async streams.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\Async streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\Async streams.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\Async streams.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\Async streams.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\Async streams.dll
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\refint\Async streams.dll
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\Async streams.pdb
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\Async streams.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Async streams\Async streams\obj\Debug\net6.0\ref\Async streams.dll
